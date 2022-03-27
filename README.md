@@ -3,7 +3,7 @@
 - Cópia da tela inicial da netflix. feita apenas com HTML e CSS.
 - Código criado para fins de treinamento e aprimoramento de conhecimentos!
 
-## EM DESENVOLVIMENTO PARA MELHORIAS
+## EM DESENVOLVIMENTO 
 
 # Autor
 
