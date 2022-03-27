@@ -5,7 +5,7 @@
 
 ## EM DESENVOLVIMENTO 
 
-#Como Executar o Projeto
+# Como Executar o Projeto
 
 ``` bash
 # Clonar o repositório 
