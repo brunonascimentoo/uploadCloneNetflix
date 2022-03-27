@@ -5,6 +5,18 @@
 
 ## EM DESENVOLVIMENTO 
 
+#Como Executar o Projeto
+
+``` bash
+# Clonar o repositório 
+
+git clone https://github.com/capbruno/uploadCloneNetflix.git
+
+# Entrar na pasta do projeto
+# Abrir o index.html no navegador de sua preferência
+  
+```
+
 # Autor
 
 Bruno do Nascimento Silva
